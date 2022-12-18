@@ -14,7 +14,7 @@
 |-|-|
 | Mastodon   | [https://mstdn.social/@acmeCSE](https://mstdn.social/@acmeCSE)                            |
 | GitHub     | [https://github.com/ankraft/ACME-oneM2M-CSE](https://github.com/ankraft/ACME-oneM2M-CSE)  |
-| (Twitter)  | [https://twitter.com/acmeCSE]( https://twitter.com/acmeCSE).                              |
+| (Twitter)  | [https://twitter.com/acmeCSE]( https://twitter.com/acmeCSE)                               |
 
 
 
