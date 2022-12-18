@@ -1,7 +1,7 @@
 
 # ![ankraft](https://github.com/ankraft.png?size=24)&nbsp;&nbsp;Me
 
-| Place | URL |
+| Community | URL |
 |-|-|
 | Mastodon   | [https://mastodon.social/@\_andreas_kraft\_](https://mastodon.social/@_andreas_kraft_) |
 | LinkedIn   | [https://www.linkedin.com/in/ankraft/](https://www.linkedin.com/in/ankraft/)           |
@@ -10,7 +10,7 @@
 
 # <img src="https://github.com/ankraft/ACME-oneM2M-CSE/blob/master/acme/webui/web/img/acme_sm.png" height="24">&nbsp;&nbsp;ACME oneM2M CSE
 
-| Place | URL |
+| Community | URL |
 |-|-|
 | Mastodon   | [https://mstdn.social/@acmeCSE](https://mstdn.social/@acmeCSE)                            |
 | GitHub     | [https://github.com/ankraft/ACME-oneM2M-CSE](https://github.com/ankraft/ACME-oneM2M-CSE)  |
